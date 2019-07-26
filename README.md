@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 | 2        | Python 2.7, TensorFlow 1.13.1, TensorFlow 2.0  | Linux (Any)                        |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789344158_ColorImages. pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789344158_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
