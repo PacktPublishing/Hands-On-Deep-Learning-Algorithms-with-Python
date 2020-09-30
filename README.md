@@ -1,6 +1,6 @@
 # Hands-On Deep Learning Algorithms with Python
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-algorithms-python?utm_source=github&utm_medium=repository&utm_term=9781789344158"><img src=".images/book_cover.png" alt="Hands-On Deep Learning Algorithms with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-algorithms-python?utm_source=github&utm_medium=repository&utm_term=9781789344158"><img src="./images/book_cover.png" alt="Hands-On Deep Learning Algorithms with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Deep Learning Algorithms with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-algorithms-python?utm_source=github&utm_medium=repository&utm_term=9781789344158), published by Packt.
 
