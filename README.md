@@ -55,6 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a data scientist, researcher, artificial intelligence enthusiast, and YouTuber (search for Sudharsan reinforcement learning). He completed his bachelor's in information technology at Anna University. His area of research focuses on practical implementations of deep learning and reinforcement learning, which includes natural language processing and computer vision. He is an open source contributor and loves answering questions on Stack Overflow. He also authored a best-seller, Hands-On Reinforcement Learning with Python, published by Packt Publishing.
 
 ## Other books by the authors
+* [Deep Reinforcement Learning with Python](https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4)
 * [Hands-On Reinforcement Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_term=9781788836524)
 * [Hands-On Meta Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-meta-learning-python?utm_source=github&utm_medium=repository&utm_term=9781789534207)
 * [Python Reinforcement Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-reinforcement-learning?utm_source=github&utm_medium=repository&utm_term=9781838649777)
